@@ -1,4 +1,4 @@
-# Using tutorial from futurelearn.com
+# Using tutorial: https://www.futurelearn.com/courses/object-oriented-principles/21/todo
 from turtle import Turtle
 from random import randint
 
